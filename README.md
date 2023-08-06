@@ -1,7 +1,7 @@
 # Web Application Development
 
 ## Summary
-The "Hoosier Connection" was my senior capstone project at Indiana University, utilizing the SCRUM framework to build a website connecting people through shared interests and live experiences. Developed with php, mysql, javascript, css, html, and rivet, it integrated Google Sign-In and an open-source Calendar API. Over the course of 10 months I strengthened technical knowledge, interpersonal abilities, and teamwork skills.
+The "Hoosier Connection" was my senior capstone project at Indiana University, utilizing the SCRUM framework to develop a website connecting people through shared interests and live experiences. Developed with php, mysql, javascript, css, html, and rivet, it integrated Google Sign-In and an open-source Calendar API. Over the course of 10 months I strengthened technical knowledge, interpersonal abilities, and teamwork skills.
 
 ## Project Overview 
 ### Identify:
