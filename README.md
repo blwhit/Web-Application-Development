@@ -13,7 +13,7 @@ The "Hoosier Connection" was my senior capstone project at Indiana University, u
 
 
 ### Plan:
-- Defined key individual responsibilities, developed wireframes, and project timeline
+- Defined key individual responsibilities, developed wireframes, and created a sprint based project timeline 
 
 
 ![Capture44](https://github.com/blwhit/Web-Application-Development/assets/141170960/00e120f8-4f18-456b-8f30-fb6c1c2a028c)
